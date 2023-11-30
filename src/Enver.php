@@ -1,6 +1,6 @@
 <?php
 
-namespace Milad;
+namespace MiladXandi;
 
 class Enver
 {
