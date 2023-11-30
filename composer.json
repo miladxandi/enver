@@ -1,0 +1,20 @@
+{
+    "name": "milad/enver",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Miladxandi\\Enver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Milad Xandi",
+            "email": "miladxandi@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "PHP": ">=8"
+    }
+}
